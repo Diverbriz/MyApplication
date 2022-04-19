@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Aplicación</string>
+    <string name="edit_message">Hola Mundo!</string>
+    <string name="button02">Hola</string>
+    <string name="string_button02">Hola</string>
+    <string name="string_button03">Hola!!!!!!</string>
+    <string name="toolBar">Hool</string>
+    <string name="action1">Main</string>
+    <string name="action2">Search</string>
+    <string name="action3">Task</string>
+    <string name="action4">Cursach</string>
+</resources>

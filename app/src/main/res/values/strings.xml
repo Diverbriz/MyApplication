@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Bounce</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="action_save" translatable="false">Сохранить</string>
+    <string name="action_delete" translatable="false">Удалить</string>
+
+    <string name="gender_unknown" translatable="false">Неизвестно</string>
+    <string name="gender_male" translatable="false">Кот</string>
+    <string name="gender_female" translatable="false">Кошка</string>
+
+    <string-array name="array_gender_options">
+        <item>@string/gender_female</item>
+        <item>@string/gender_male</item>
+        <item>@string/gender_unknown</item>
+    </string-array>
+    <string name="action1">Главная</string>
+    <string name="action2">Поиск</string>
+    <string name="action3">Вопросы</string>
+    <string name="action4">Курсач</string>
+
+    <string name="edit_message">Che</string>
+    <string name="button02">Button</string>
+    <string name="string_button02">Button</string>
+    <string name="string_button03">Big button</string>
+    <string name="toolBar">tool</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+</resources>

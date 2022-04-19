@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mon Application</string>
+    <string name="edit_message">Bonjour le monde !</string>
+    <string name="button02">Bonjour</string>
+    <string name="string_button02">Bonjour</string>
+    <string name="string_button03">Dolche Bonjour</string>
+    <string name="toolBar">French</string>
+    <string name="action1">Glavnua</string>
+    <string name="action2">Sarah</string>
+    <string name="action3">Taskue</string>
+    <string name="action4">Kursache</string>
+</resources>
